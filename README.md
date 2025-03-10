@@ -1,5 +1,11 @@
 # nextjs-zitadel-example
 
+Features
+- NextJS 15
+- NextAuth v5
+- NextAuth Custom Sign In Page
+- JWT ID token
+
 ## Zitadel Settings
 
 ### OIDC Configuration
